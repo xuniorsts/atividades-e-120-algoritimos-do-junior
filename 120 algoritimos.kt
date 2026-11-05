@@ -1,6 +1,3 @@
-package algoritmos
-
-import kotlin.math.*
 
 fun main() {
     println("--- Executando Algoritmos 11 a 130 ---")
@@ -13,12 +10,7 @@ fun main() {
     alg17()
     alg18()
     alg19()
-    // Para testar algoritmos que solicitam entrada de dados via teclado, chame-os individualmente:
-    // alg20()
-    // alg30()
-    // alg88()
-    // alg130()
-}
+   }
 
 // Algoritmo 11
 fun alg11() {
